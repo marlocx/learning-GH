@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D3E26AD-1344-4989-BE04-0DA16B8C2E61"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74136318-6625-49A9-BC4B-315F38F85679"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "List Recipe App/Services/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74136318-6625-49A9-BC4B-315F38F85679 - 35ea383292525883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static List_Recipe_App.DataService.getLocalData() -&gt; Swift.Array&lt;List_Recipe_App.Recipe&gt;"
+                  moduleName = "List Recipe App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krittanantandeemaporn/Desktop/Swift/tutorial_1/List%20Recipe%20App/List%20Recipe%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "74136318-6625-49A9-BC4B-315F38F85679 - 35ea383292525883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static List_Recipe_App.DataService.getLocalData() -&gt; Swift.Array&lt;List_Recipe_App.Recipe&gt;"
+                  moduleName = "List Recipe App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krittanantandeemaporn/Desktop/Swift/tutorial_1/List%20Recipe%20App/List%20Recipe%20App/Services/DataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02209F84-83B6-401E-AAD0-5A451F48101B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "List Recipe App/Services/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
