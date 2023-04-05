@@ -33,7 +33,7 @@ struct RecipeListView: View {
                         
                 
             }
-            .navigationBarTitle("All Recipe")
+            .navigationBarTitle("All Recipes")
         }
        
         
