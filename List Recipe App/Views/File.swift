@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct Model3{
+ var name3:String? 
+}
