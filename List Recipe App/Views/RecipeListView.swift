@@ -18,16 +18,15 @@ struct RecipeListView: View {
                 
                 NavigationLink(
                     destination: RecipeDetailView(recipe:r), label: {
-                    HStack(spacing: 20.0) {
+                    HStack(spacing: 10.0) {
                         Image(r.image)
                             .resizable()
                             .scaledToFill()
-                            .frame(width: .none, height: 400, alignment: .center)
+                            .frame(width: 60, height: 60, alignment: .center)
                             .clipped()
                             .cornerRadius(5)
                         Text(r.name)
                             .padding(.top, 3)
-                            .shadow(radius: <#T##CGFloat#>)
                     }
                 })
                         
